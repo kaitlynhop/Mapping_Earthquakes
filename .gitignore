@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Config Js File
+config.js
+
 # C extensions
 *.so
 
@@ -26,6 +29,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
